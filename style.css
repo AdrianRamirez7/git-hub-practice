@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    background-color: aqua;
+}
+
+.title {
+    display: flex;
+    margin: 100px 300px;
+    align-items: center;
+    font-size: 30px;
+}
+
